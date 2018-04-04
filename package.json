@@ -1,0 +1,16 @@
+{
+  "name": "tts-bot",
+  "version": "1.0.0",
+  "description": "Simple express app to scare the shit out of someone",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mrclsu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "say": "^0.14.0"
+  }
+}
